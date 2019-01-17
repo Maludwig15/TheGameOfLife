@@ -1,8 +1,5 @@
 import javax.swing.*;
 
-/**
- * Created by michael_hopps on 11/15/16.
- */
 public class ProjectMain extends JFrame {
 
     public static void main(String[] args) {
